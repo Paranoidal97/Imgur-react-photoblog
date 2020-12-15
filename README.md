@@ -17,7 +17,7 @@
 -->
 
 [![MIT License][license-shield]]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/%C5%82ukasz-rams-b2396b125/]
+[![LinkedIn][linkedin-shield]]["https://www.linkedin.com/in/%C5%82ukasz-rams-b2396b125/"]
 
 
 
