@@ -89,23 +89,21 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/Paranoidal97/Imgur-react-photoblog
    ```
 
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
 
-4. Enter your API in `ENV_EXAMPLE`
+3. Enter your API keys in `ENV_EXAMPLE`
 
-5. Rename the file from ENV_example to .env
+4. Rename the file from ENV_example to .env
 
-6. Start the application 
+5. Start the application 
    ```sh
    npm start
    ```
