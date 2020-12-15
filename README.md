@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The application written in react.js is based on imgur api. It has features such as creating albums, publishing albums, adding and removing albums, photos and selecting a photo of the main album. The whole is protected by Auth0. The project also has implemented the possibility of sending emails via email.js.
+The application written in react.js is based on imgur api.It has features such as creating and publishing albums, adding and removing albums or photos and selecting a picture of the main album. The whole is protected by Auth0. The project also has implemented the possibility of sending emails via email.js.
 
 ### Built With
 
